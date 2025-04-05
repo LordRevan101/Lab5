@@ -1,0 +1,23 @@
+Set 1 of grades calculated
+Number of A's: 4
+Number of B's: 4
+Number of C's: 4
+Number of D's: 4
+Number of F's: 2
+The high score was: 100
+The low score was: 40
+The average score is: 76.1
+
+Set 2 of grades calculated
+No grades to average
+
+Set 3 of grades calculated
+Number of A's: 5
+Number of B's: 4
+Number of C's: 3
+Number of D's: 2
+Number of F's: 1
+The high score was: 100
+The low score was: 52
+The average score is: 82.1
+
