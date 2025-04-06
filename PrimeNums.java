@@ -34,15 +34,9 @@ public class PrimeNums {
         boolean check=true;
         for (int i=2;i<=Math.sqrt(p);i++){
             if (p%i==0){
-                check=false;
-                i=p;
+                return false;
             }
         }
-        
-        if (check){
-            return true;
-        } else {
-            return false;
-        }
+        return true;
     }
 }
