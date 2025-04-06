@@ -35,7 +35,7 @@ public class PrimeNums {
         for (int i=2;i<=Math.sqrt(p);i++){
             if (p%i==0){
                 check=false;
-                break;
+                i=p;
             }
         }
         

@@ -10,7 +10,11 @@ import java.util.Scanner;
  */
 public class Grades{
     public static void main(String[] args) throws IOException{
-        processFile(getInFile(), getOutFile());
+        String inFile = getInFile();
+        String outFile = getOutFile();
+        
+        processFile(inFile,outFile);
+        System.exit(0);
     }
     
     /**

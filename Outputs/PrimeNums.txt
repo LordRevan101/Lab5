@@ -1,0 +1,6 @@
+Please input a whole positive number to check if its prime: 8
+8 is not a prime
+Enter yes to retest for a prime. yes
+Please input a whole positive number to check if its prime: 19
+19 is a prime
+Enter yes to retest for a prime. no
