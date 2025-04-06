@@ -31,7 +31,6 @@ public class PrimeNums {
      * @return boolean true or false if number is calculated to be prime or not
      */
     public static boolean testPrime(int p) {
-        boolean check=true;
         for (int i=2;i<=Math.sqrt(p);i++){
             if (p%i==0){
                 return false;
